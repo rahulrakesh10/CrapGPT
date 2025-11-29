@@ -49,16 +49,6 @@ Both modes include:
 
 **CrapGPT**: "Sure, I could help... or you could just read the error message. Your call. The answer is probably in the first Google result, but here we are."
 
-## API Endpoints
-
-- `POST /api/chat` - Send a message and get a witty response
-  - Body: `{ "message": "your message", "conversation_id": "optional_id" }`
-  - Returns: `{ "response": "witty response", "conversation_id": "id", "timestamp": "..." }`
-
-- `POST /api/reset` - Reset conversation history
-  - Body: `{ "conversation_id": "id" }`
-
-- `GET /health` - Health check endpoint
 
 ## Customization
 
