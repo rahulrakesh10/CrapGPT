@@ -15,23 +15,6 @@ CrapGPT is a witty, sarcastic chatbot designed to frustrate users playfully whil
 
 
 
-## Running the Application
-
-1. Start the Flask backend server:
-```bash
-python app.py
-```
-
-The server will start on `http://localhost:5000`
-
-2. Open `index.html` in your web browser, or serve it using a local server:
-```bash
-# Using Python's built-in server
-python -m http.server 8000
-```
-
-Then navigate to `http://localhost:8000` in your browser.
-
 ## How It Works
 
 ### Response Generation
