@@ -13,23 +13,7 @@ CrapGPT is a witty, sarcastic chatbot designed to frustrate users playfully whil
 - 🎨 **Modern UI**: Beautiful, responsive chat interface
 - 😏 **Playful frustration**: Lighthearted but cheeky tone (never mean or offensive)
 
-## Installation
 
-1. Clone or download this repository
-
-2. Install Python dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. (Optional) Enable LLM-based responses for more natural, context-aware trolling:
-   - Get a free API key from [Groq Console](https://console.groq.com)
-   - Create a `.env` file in the project root:
-   ```bash
-   USE_LLM=true
-   GROQ_API_KEY=your_groq_api_key_here
-   ```
-   - If you don't set up the LLM, the bot will use the rule-based system (which works great too!)
 
 ## Running the Application
 
