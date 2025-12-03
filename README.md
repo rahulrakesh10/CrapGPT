@@ -62,9 +62,7 @@ You can customize the snarky responses by editing the `SNARKY_RESPONSES` diction
 
 
 
----
 
 *Built with sarcasm and questionable life choices* 😏
 
 
-# CrapGPT
