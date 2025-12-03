@@ -60,7 +60,6 @@ You can customize the snarky responses by editing the `SNARKY_RESPONSES` diction
 - **Frontend**: HTML, CSS, JavaScript
 - **Styling**: Modern CSS with gradients and animations
 
-## License
 
 
 ---
