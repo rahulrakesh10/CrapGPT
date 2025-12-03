@@ -64,5 +64,7 @@ You can customize the snarky responses by editing the `SNARKY_RESPONSES` diction
 
 
 *Built with sarcasm and questionable life choices* 
+*Do not use this to heart, it is fake*
+
 
 
