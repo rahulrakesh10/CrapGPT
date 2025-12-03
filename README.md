@@ -62,7 +62,6 @@ You can customize the snarky responses by editing the `SNARKY_RESPONSES` diction
 
 ## License
 
-This project is for entertainment purposes. Use at your own risk of developing a love-hate relationship with a chatbot.
 
 ---
 
