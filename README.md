@@ -10,7 +10,6 @@ CrapGPT is a witty, sarcastic chatbot designed to frustrate users playfully whil
 - 🎪 **Cultural references**: Pop culture allusions, puns, and double entendres
 - 🔄 **Contextual snark**: Multi-turn conversations with callbacks and in-jokes
 - 🎲 **Unpredictable responses**: Mix of AI-generated wit and pre-written snark
-- 🎨 **Modern UI**: Beautiful, responsive chat interface
 - 😏 **Playful frustration**: Lighthearted but cheeky tone (never mean or offensive)
 
 
