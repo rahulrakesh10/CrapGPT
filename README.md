@@ -50,10 +50,6 @@ Both modes include:
 **CrapGPT**: "Sure, I could help... or you could just read the error message. Your call. The answer is probably in the first Google result, but here we are."
 
 
-## Customization
-
-You can customize the snarky responses by editing the `SNARKY_RESPONSES` dictionary in `app.py`. Add your own comebacks, cultural references, or absurd responses to make it even more entertaining!
-
 ## Technologies Used
 
 - **Backend**: Flask (Python)
